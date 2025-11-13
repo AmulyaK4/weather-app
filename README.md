@@ -16,6 +16,7 @@ Features
 Screenshots
 ![output 1](https://github.com/user-attachments/assets/c50b4dfc-c600-4374-8f8c-e60e3d9f0f0a)
 
+![output 2](https://github.com/user-attachments/assets/90ae8bd6-273f-44f2-8ac8-abbe32fa86bb)
 
 
 * How It Works
