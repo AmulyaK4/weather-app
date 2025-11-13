@@ -1,17 +1,17 @@
 # weather-app
 A sleek and responsive web application to display real-time weather updates for any city, built using HTML, CSS, and JavaScript. The project uses the OpenWeatherMap API to fetch current temperature, weather conditions, humidity, wind speed, and a visual icon, all within a modern and animated UI.
 Features
-Search by City: Instantly fetch up-to-date weather data for any city worldwide with a simple search input and button.
+* Search by City: Instantly fetch up-to-date weather data for any city worldwide with a simple search input and button.
 
-API Integration: Utilizes OpenWeatherMap's REST API for accurate real-time weather data.
+* API Integration: Utilizes OpenWeatherMap's REST API for accurate real-time weather data.
 
-Dynamic UI: Shows city name, temperature, condition, humidity, wind speed, and a weather-specific icon.
+* Dynamic UI: Shows city name, temperature, condition, humidity, wind speed, and a weather-specific icon.
 
-User Feedback: Handles invalid input with clear error display. Loading indicators enhance user experience during API requests.
+* User Feedback: Handles invalid input with clear error display. Loading indicators enhance user experience during API requests.
 
-Responsive Design: Mobile-friendly layout adapts gracefully to smaller screens, ensuring usability on any device.
+* Responsive Design: Mobile-friendly layout adapts gracefully to smaller screens, ensuring usability on any device.
 
-Animated Visuals: Subtle fade-in effects and clean iconography provide a modern, engaging interface with customized error and loading animations.
+* Animated Visuals: Subtle fade-in effects and clean iconography provide a modern, engaging interface with customized error and loading animations.
 
 Screenshots
 (Optional: Add images here if desired)
