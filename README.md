@@ -14,7 +14,9 @@ Features
 * Animated Visuals: Subtle fade-in effects and clean iconography provide a modern, engaging interface with customized error and loading animations.
 
 Screenshots
-(Optional: Add images here if desired)
+![output 1](https://github.com/user-attachments/assets/c50b4dfc-c600-4374-8f8c-e60e3d9f0f0a)
+
+
 
 * How It Works
 Enter a City Name: The user types a city name (e.g., "London") and clicks the search icon or presses Enter.
