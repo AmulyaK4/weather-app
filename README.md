@@ -16,14 +16,14 @@ Features
 Screenshots
 (Optional: Add images here if desired)
 
-How It Works
+* How It Works
 Enter a City Name: The user types a city name (e.g., "London") and clicks the search icon or presses Enter.
 
-Fetch Weather Data: The app queries the OpenWeatherMap API for that city's latest weather.
+* Fetch Weather Data: The app queries the OpenWeatherMap API for that city's latest weather.
 
-Display Results: If found, weather details update with animated transitions; if not, an error message is shown.
+* Display Results: If found, weather details update with animated transitions; if not, an error message is shown.
 
-Technologies Used
+* Technologies Used
 HTML: App structure and content.
 
 CSS: Responsive design, custom gradients, animations for smooth UI.
@@ -34,21 +34,21 @@ OpenWeatherMap API: For weather information and condition icons.
 
 Font Awesome: For UI icons.
 
-Getting Started
+* Getting Started
 Clone the repository:
 
-bash
+* bash
 git clone https://github.com/your-username/weather-app.git
 OpenWeatherMap API Key:
 
-Replace the sample API key in script.js with your own from https://openweathermap.org/api.
+* Replace the sample API key in script.js with your own from https://openweathermap.org/api.
 
-Open index.html:
+* Open index.html:
 
-Simply open the file in your favorite browser.
+* Simply open the file in your favorite browser.
 
-Project Structure
+* Project Structure
 File	Purpose
-index.html	Main web page—input, search, and sections for weather data and errors.
-style.css	Styles for layout, animations, and themes.
-script.js	Fetches weather, handles logic, and updates elements dynamically.
+* index.html	Main web page—input, search, and sections for weather data and errors.
+* style.css	Styles for layout, animations, and themes.
+* script.js	Fetches weather, handles logic, and updates elements dynamically.
